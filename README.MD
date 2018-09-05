@@ -1,0 +1,3 @@
+This is a placeholder for something more exciting since there is nothing here right now. Every project begins with a good README.MD and that's how you get more work done without getting in the way of other stuff...
+
+... so we leave this blank for now and then we can fill it in later as we need it, pew pew.
